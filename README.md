@@ -4,13 +4,19 @@
 
 Brutestrap is a Neobrutalism-themed CSS framework built on top of Bootstrap 5. It transforms the polished, rounded aesthetic of Bootstrap into a bold, geometric, and high-contrast design language.
 
+Visit [brutestrap.com](https://brutestrap.com) to see Brutestrap in action and learn more.
+
+![Brutestrap Preview](preview.png)
+
 ## Features
 
-- 🎨 **Neobrutalism Design**: Bold black borders, bright colors, flat design
-- 🚀 **Bootstrap 5 Compatible**: Works with all Bootstrap 5 components
-- 📦 **Zero Dependencies**: Just CSS, no JavaScript required
-- 🎯 **Easy to Use**: Simply include the CSS file after Bootstrap
-- 🔧 **Customizable**: CSS variables for easy theming
+- **Neobrutalism Design**: Bold black borders, bright colors, flat design
+- **Bootstrap 5 Compatible**: Works with all Bootstrap 5 components
+- **Zero Dependencies**: Just CSS, no JavaScript required
+- **Easy to Use**: Simply include the CSS file after Bootstrap
+- **Customizable**: CSS variables for easy theming
+
+For more information, visit [brutestrap.com](https://brutestrap.com).
 
 ## Quick Start
 
@@ -71,21 +77,21 @@ You can customize Brutestrap by overriding CSS variables:
 
 ## Components Styled
 
-All Bootstrap 5 components are styled with the Neobrutalism theme:
+All Bootstrap 5 components are styled with the Neobrutalism theme. See them all at [brutestrap.com](https://brutestrap.com):
 
-- ✅ Buttons
-- ✅ Cards
-- ✅ Forms (inputs, selects, checkboxes, radios)
-- ✅ Alerts
-- ✅ Badges
-- ✅ Navbar
-- ✅ Dropdowns
-- ✅ Modals
-- ✅ Tables
-- ✅ Pagination
-- ✅ Progress bars
-- ✅ List groups
-- ✅ Breadcrumbs
+- Buttons
+- Cards
+- Forms (inputs, selects, checkboxes, radios)
+- Alerts
+- Badges
+- Navbar
+- Dropdowns
+- Modals
+- Tables
+- Pagination
+- Progress bars
+- List groups
+- Breadcrumbs
 
 ## Utility Classes
 
@@ -107,7 +113,7 @@ Brutestrap works with all modern browsers that support Bootstrap 5:
 
 ## Examples
 
-Check out `index.html` for a comprehensive showcase of all styled components.
+Check out `index.html` for a comprehensive showcase of all styled components, or visit [brutestrap.com](https://brutestrap.com) to see live examples.
 
 ## License
 
@@ -115,7 +121,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-Built with ❤️ and inspired by the Neobrutalism design movement.
+Built with inspiration from the Neobrutalism design movement. Learn more at [brutestrap.com](https://brutestrap.com).
+
 
 
 
