@@ -119,9 +119,9 @@ Check out `index.html` for a comprehensive showcase of all styled components, or
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Credits
+## Press the :star: button
 
-Built with inspiration from the Neobrutalism design movement. Learn more at [brutestrap.com](https://brutestrap.com).
+Don't forget to press the :star: button to let me know I should continue improving this project.
 
 
 
