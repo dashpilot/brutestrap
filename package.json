@@ -1,0 +1,32 @@
+{
+  "name": "brutestrap",
+  "version": "1.0.0",
+  "description": "A bold, raw, and unapologetic Neobrutalism theme for Bootstrap 5",
+  "main": "brutestrap.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-5",
+    "neobrutalism",
+    "brutalism",
+    "css",
+    "theme",
+    "framework"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "peerDependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
+
+
+
+
+
