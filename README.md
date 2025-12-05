@@ -1,6 +1,6 @@
 # Brutestrap
 
-**A bold, raw, and unapologetic take on Bootstrap 5**
+**A Neobrutalist take on Bootstrap 5**
 
 Brutestrap is a Neobrutalism-themed CSS framework built on top of Bootstrap 5. It transforms the polished, rounded aesthetic of Bootstrap into a bold, geometric, and high-contrast design language.
 
